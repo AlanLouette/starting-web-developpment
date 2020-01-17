@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat',
+        sans-serif,
+        'Open Sans',
+        sans-serif;
+}
+
+.page {
+    margin: 0 auto;
+    width: 40vw;
+    color: #a3a3a3;
+}
+
+.Bloc {
+    padding: 1em;
+    margin-bottom: 2em;
+
+    /*Largeur*/
+
+    /*Espace*/
+    background-color: white;
+    /*Couleur de fond*/
+    box-shadow: 0px 5px 20px #999;
+    /*Ombrage*/
+    background-color: aliceblue;
+
+}
+
+#Titre1 {
+    color: #DD5555;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.Tim {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Tim2 {
+    width: 7em;
+    margin-bottom: 1em;
+}
+
+.Texte {
+    position: relative;
+    bottom: 20px;
+    text-align: justify;
+    left: 0.5em;
+}
+
+h3 {
+    text-align: center;
+}
+
+.Bouton {
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-color: #dd5555;
+    color: white;
+    height: 3em;
+
+}
+
+#logo {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    list-style: none;
+}
